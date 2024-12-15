@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.DS_Store
+.idea/
+*.iml
+*.log
+*.tmp
+*.zip
+*.tar.gz
+*.7z
+*.rar
+*.exe
+*.dll
+*.so
+*.bin
+*.o
+*.obj
